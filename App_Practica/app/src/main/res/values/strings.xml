@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_Practica</string>
+    <string name="ET1">Ingresa primer valor</string>
+    <string name="ET2">Ingresa segundo valor</string>
+    <string name="Boton">Calcular</string>
+    <string name="sumar">Sumar</string>
+    <string name="Restar">Restar</string>
+    <string name="Multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="resultado">Resultado</string>
+</resources>
